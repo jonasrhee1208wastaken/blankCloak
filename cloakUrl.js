@@ -1,4 +1,3 @@
-// module.js
 function cloak(url) {
   // Check if the code is running in a browser environment
   if (typeof window === 'undefined') {
@@ -40,5 +39,3 @@ function cloak(url) {
   // Close the current window
   window.close();
 }
-
-module.exports = cloak;
