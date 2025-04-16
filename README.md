@@ -1,9 +1,9 @@
 # Usage
-Import the module
+## Import the module
 
-import cloak from 'https://raw.githubusercontent.com/username/repo/branch/module.js';
+import cloak from 'https://raw.githubusercontent.com/jonasrhee1208wastaken/blankCloak/refs/heads/main/module.js';
 
-Run the cloak
+## Run the cloak
 
 cloak('https://example.com');
 
