@@ -1,4 +1,4 @@
-export function cloakUrl(url = 'example.com') {
+export default function cloakUrl(url) {
   let maskedWindow = window.open();
 
   const doc = maskedWindow.document;
