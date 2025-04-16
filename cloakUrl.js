@@ -1,5 +1,5 @@
 // cloakUrl.js
-export function cloakUrl(url = 'Put URL Here') {
+export function cloakUrl(url = 'example.com') {
   let maskedWindow = window.open();
 
   const doc = maskedWindow.document;
